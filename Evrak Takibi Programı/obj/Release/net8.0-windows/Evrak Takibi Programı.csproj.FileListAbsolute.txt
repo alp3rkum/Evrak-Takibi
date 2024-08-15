@@ -1,0 +1,109 @@
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Evrak Takibi Programı.exe
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Evrak Takibi Programı.deps.json
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Evrak Takibi Programı.runtimeconfig.json
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Evrak Takibi Programı.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Evrak Takibi Programı.pdb
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\EPPlus.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.barcodes.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.forms.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.io.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.kernel.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.layout.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.pdfa.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.pdfua.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.sign.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.svg.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\itext.commons.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\bin\Release\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Interop.SHDocVw.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\AxInterop.SHDocVw.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.Dashboard.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.DosyaGoster.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.EksikBelgeliKullaniciListesi.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.EksikDokuman.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.KullaniciGuncelle.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.LisansAnahtari.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.MusteriSil.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.MüsteriGüncelle.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.SirketGuncelle.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.SirketSil.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Diğer.İlkKullanici.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Form1.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.DikkatKaydı.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.GelenFatura.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.GidenFatura.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.YeniAdiOrtak.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.YeniCerceveYetkili.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.YeniGercek.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.YeniSahis.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.YeniTuzel.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.YeniYetkili.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.EksikEvrakRaporu.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.GuvenlikKontrolRapor.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.KapakOlustur.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.MusteriListesi.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.MüsteriKontrol.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.TakiptekiFaturalar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.TeslimTesellum.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.TopluMutabakat.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü2.YetkiliListesi.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü3.MusteriBelgeİceriAktar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü3.MusteriRaporuİceAktar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.SatisRaporuİceAktar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü4.MusteriBilgileriDısaAktar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü4.MusteriRaporuDisaAktar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü4.SatisRaporuDisaAktar.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü4.SozlesmeYazdir.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü5.KullaniciTanimla.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü5.SirketTanimla.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Menü5.YedekAl.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak_Takibi_Programı.Properties.Resources.resources
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.AssemblyInfo.cs
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Ta.77D1EABD.Up2Date
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\refint\Evrak Takibi Programı.dll
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.pdb
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\Evrak Takibi Programı.genruntimeconfig.cache
+C:\Users\User\source\repos\Evrak Takibi\Evrak Takibi Programı\obj\Release\net8.0-windows\ref\Evrak Takibi Programı.dll

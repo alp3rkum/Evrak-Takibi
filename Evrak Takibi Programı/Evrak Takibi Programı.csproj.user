@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Diğer\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\DosyaGoster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\EksikBelgeliKullaniciListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\EksikDokuman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\KullaniciGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\LisansAnahtari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\MusteriSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\MüsteriGüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\SirketGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\SirketSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Diğer\İlkKullanici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\EksikEvrakRaporu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\GuvenlikKontrolRapor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\KapakOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\MusteriListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\MüsteriKontrol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\TakiptekiFaturalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\TeslimTesellum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\TopluMutabakat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü2\YetkiliListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü3\MusteriBelgeİceriAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü3\MusteriRaporuİceAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü3\SatisRaporuİceAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü4\MusteriBilgileriDısaAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü4\MusteriRaporuDisaAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü4\SatisRaporuDisaAktar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü4\SozlesmeYazdir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü5\KullaniciTanimla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü5\SirketTanimla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menü5\YedekAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
